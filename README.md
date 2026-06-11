@@ -8,6 +8,8 @@ Smart College Life Manager is a web-based dashboard where students can log in, a
 
 ---
 
+
+
 ## What this project does
 - Allows students to create an account and log in securely
 - Lets users add academic tasks like assignments, exams, and events
